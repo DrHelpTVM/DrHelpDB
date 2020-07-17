@@ -18,6 +18,20 @@
       "PhoneNumber":"+919633471345",
       "Department":"General"
     }
-    
+  ],
+  "FromAddress":
+  [
+    {
+      "Email":"drhelporder@gmail.com",
+      "Password":"shajipappan"
+    }
+  ],
+  "ToAddress":
+  [
+    {
+      "Email":"drhelporder1@gmail.com",
+      "Password":"shajipappan"
+    }
   ]
+
 }
