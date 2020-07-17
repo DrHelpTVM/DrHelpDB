@@ -1,0 +1,22 @@
+{
+  "DrDetail": [
+    {
+      "Degree": "MBBS,MD",
+      "Name": "Dr Hafsa H",
+      "PhoneNumber":"+918281812380",
+      "Department":"Homeopathy"
+    },
+    {
+      "Degree": "MBBS,MD",
+      "Name": "Dr Betsy",
+      "PhoneNumber":"+918547315260",
+      "Department":"General"
+    },
+    {
+      "Degree": "MBBS,MD",
+      "Name": "Dr Vipin",
+      "PhoneNumber":"+919633471345",
+      "Department":"General"
+    }
+  ]
+}
