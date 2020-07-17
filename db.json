@@ -17,6 +17,13 @@
       "Name": "Dr Vipin",
       "PhoneNumber":"+919633471345",
       "Department":"General"
+    },
+    {
+      "Degree": "MBBS,MD",
+      "Name": "Dr Vipin",
+      "PhoneNumber":"+919633471345",
+      "Department":"General"
     }
+    
   ]
 }
